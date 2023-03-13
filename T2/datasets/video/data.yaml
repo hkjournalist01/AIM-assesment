@@ -1,0 +1,12 @@
+train: D:/AIM/T2/datasets/video/train/images
+val: D:/AIM/T2/datasets/video/valid/images
+
+nc: 1
+names: ['sports ball']
+
+roboflow:
+  workspace: yongyu-deng-2tp9v
+  project: soccer-tracking
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yongyu-deng-2tp9v/soccer-tracking/dataset/1

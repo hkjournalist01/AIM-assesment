@@ -1,0 +1,13 @@
+train: D:/AIM/T2/datasets/ball/train/images
+val: D:/AIM/T2/datasets/ball/valid/images
+test: D:/AIM/T2/datasets/ball/test/images
+
+nc: 1
+names: ['sport-balls']
+
+roboflow:
+  workspace: max-max-qsjz6
+  project: sport-ball-detector
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/max-max-qsjz6/sport-ball-detector/dataset/1
